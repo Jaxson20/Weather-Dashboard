@@ -7,9 +7,9 @@ Usage - To use this website effectively,  when you load onto the website you wil
 
 Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhUbabNlG21jrAVXZ?e=Uu2BpU
 
-Website - 
+Website - https://jaxson20.github.io/Weather-Dashboard/
 
-picture of the live site - 
+picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhUfpZf7uVT9tLboA?e=cm0scH
 
 Credits KU Bootcamp, Module 5, Google,
 
